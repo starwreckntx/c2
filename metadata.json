@@ -1,0 +1,5 @@
+{
+  "name": "StarWreck Alpha Topology Auditor",
+  "description": "A dashboard to visualize the context, topology, and audit parameters of the StarWreck Alpha project, based on a context restoration packet.",
+  "requestFramePermissions": []
+}
